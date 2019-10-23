@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sep Create Lang Sub Category"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.914">
+  <properties />
+  
+  
+            <testcase name="sepCreateLangSubCategory" time="3.914" classname="work.myimss.test.testcases.SepCreateLangSubCategory" />
+      
+</testsuite>

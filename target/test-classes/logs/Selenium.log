@@ -1,0 +1,14 @@
+14:21:25,075 DEBUG devpinoyLogger:48 - config file loaded !!!!
+14:21:25,092 DEBUG devpinoyLogger:52 - OR file loaded !!!!
+14:21:45,472 DEBUG devpinoyLogger:59 - Firefox launched!!!!
+14:21:51,265 DEBUG devpinoyLogger:75 - Naviagted to ---> https://test.myimss.work/iauth/login
+14:21:51,499 DEBUG devpinoyLogger:18 - Inside Login Test!!!!!!!!!!
+14:21:56,791 DEBUG devpinoyLogger:22 - Login Successfully executed!!!!!!!!!!
+14:21:56,995 DEBUG devpinoyLogger:14 - Inside MyimssAdminTest Test
+14:22:00,057 DEBUG devpinoyLogger:17 - MyimssAdminTest Successfully executed
+14:22:00,072 DEBUG devpinoyLogger:14 - Inside Administration Test
+14:22:00,401 DEBUG devpinoyLogger:17 - AdministrationTest Successfully executed
+14:22:00,494 DEBUG devpinoyLogger:14 - Inside Login Test
+14:22:02,128 DEBUG devpinoyLogger:17 - Login Succefully executed
+14:22:03,049 DEBUG devpinoyLogger:14 - Inside CreateRole Test
+14:22:04,364 DEBUG devpinoyLogger:17 - CreateRoleTest Succefully executed

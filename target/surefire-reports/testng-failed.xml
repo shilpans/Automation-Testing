@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Data Driven Basics]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="work.myimss.test.listeners.CustomListeners"/>
+  </listeners>
+  <test name="Sep Create Test Request Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepCreateTestRequestTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="sepCreateTestRequestTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepCreateTestRequestTest -->
+    </classes>
+  </test> <!-- Sep Create Test Request Test(failed) -->
+</suite> <!-- Failed suite [Data Driven Basics] -->

@@ -1,0 +1,32 @@
+package work.myimss.test.testcases;
+
+import org.openqa.selenium.By;
+import org.testng.Assert;
+import org.testng.Reporter;
+import org.testng.annotations.Test;
+
+import work.myimss.test.base.TestBase;
+import work.myimss.test.utilities.TestUtil;
+
+public class SepCreateLangSubCategoryTest extends TestBase
+	{
+	
+	@Test(dataProviderClass=TestUtil.class,dataProvider="dp")
+	public void sepCreateLangSubCategoryTest(String language, String name)
+	{
+		log.debug("Inside SepCreateLangSubCategory");
+		click("createLang_XPATH");
+		Assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("selectLang_XPATH","Failed to click on SepCreateLangSubCategoryTest"))));
+		
+		type("selectLang_XPATH",language);
+		type("langName_XPATH",name);
+		
+		click("submit_XPATH");
+		getText("successAlert_XPATH");
+		Reporter.log("SepCreateLangSubCategory Successfully executed!!!!!!!!!!");
+		
+		log.debug("SepLangSubCategoryTest Successfully executed");
+		
+	}
+
+}

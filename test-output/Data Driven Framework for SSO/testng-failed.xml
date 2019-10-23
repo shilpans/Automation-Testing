@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Data Driven Framework for SSO]">
+  <test name="Login Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.LoginTest">
+        <methods>
+          <include name="loginTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.LoginTest -->
+    </classes>
+  </test> <!-- Login Test(failed) -->
+  <test name="Myimss Admin Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.MyimssAdminTest">
+        <methods>
+          <include name="myimssAdminTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.MyimssAdminTest -->
+    </classes>
+  </test> <!-- Myimss Admin Test(failed) -->
+  <test name="Administration Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.AdministrationTest">
+        <methods>
+          <include name="administrationTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.AdministrationTest -->
+    </classes>
+  </test> <!-- Administration Test(failed) -->
+  <test name="Role Management Administration Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.RoleManagementAdministrationTest">
+        <methods>
+          <include name="roleManagementAdministrationTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.RoleManagementAdministrationTest -->
+    </classes>
+  </test> <!-- Role Management Administration Test(failed) -->
+  <test name="Create Role Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.CreateRoleTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="createRoleTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.CreateRoleTest -->
+    </classes>
+  </test> <!-- Create Role Test(failed) -->
+</suite> <!-- Failed suite [Data Driven Framework for SSO] -->

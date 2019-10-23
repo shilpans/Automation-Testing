@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Data Driven Basics">
+    
+    <listeners>
+      <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+      <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+       <listener class-name="work.myimss.test.listeners.CustomListeners"/>
+  </listeners>
+    
+    
+	<test name="Login Test">
+		<classes>
+			<class name="work.myimss.test.testcases.LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Myimss Admin Test">
+		<classes>
+			<class name="work.myimss.test.testcases.MyimssAdminTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Administration Test">
+		<classes>
+			<class name="work.myimss.test.testcases.AdministrationTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Role MAnagement Administration Test">
+		<classes>
+			<class name="work.myimss.test.testcases.RoleManagementAdministrationTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Create Role Test">
+		<classes>
+			<class name="work.myimss.test.testcases.CreateRoleTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Advanced Search Test">
+		<classes>
+			<class name="work.myimss.test.testcases.RoleAdvancedSearchTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Edit Role Test">
+		<classes>
+			<class name="work.myimss.test.testcases.RoleEditTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Role Delete Test">
+		<classes>
+			<class name="work.myimss.test.testcases.RoleDeleteTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="User Management Administration Test">
+		<classes>
+			<class name="work.myimss.test.testcases.UserManagementAdministrationTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="User Advanced Search Test">
+		<classes>
+			<class name="work.myimss.test.testcases.UserAdvancedSearchTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="User Edit Test">
+		<classes>
+			<class name="work.myimss.test.testcases.UserEditTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Application Configuration Administration Test">
+		<classes>
+			<class name="work.myimss.test.testcases.ApplicationConfigurationAdministrationTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="App Config Advanced Search Test">
+		<classes>
+			<class name="work.myimss.test.testcases.AppConfigAdvancedSearchTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="App Config Edit Test">
+		<classes>
+			<class name="work.myimss.test.testcases.AppConfigEditTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Main Menu Test">
+		<classes>
+			<class name="work.myimss.test.testcases.MainMenuTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Administration Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepAdministrationTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Application Config Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepApplicationConfigTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep App Config Advanced Search Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepAppConfigAdvancedSearchTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep App Config Edit Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepAppConfigEditTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Lang Sub Category Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepLangSubCategoryTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Create Lang Sub Category Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepCreateLangSubCategoryTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	
+	<test name="Sep Lang Advanced Search Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepLangAdvancedSearchTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Lang Edit Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepLangEditTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Lang Delete Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepLangDeleteTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Evaluation Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepEvaluationTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Evaluation Request Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepEvaluationRequestTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Create Test Request Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepCreateTestRequestTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+</suite> <!-- Suite -->

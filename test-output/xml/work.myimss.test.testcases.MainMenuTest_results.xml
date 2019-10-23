@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Main Menu Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.589">
+  <properties />
+  
+  
+            <testcase name="mainMenuSkillsTest" time="4.589" classname="work.myimss.test.testcases.MainMenuTest" />
+      
+</testsuite>

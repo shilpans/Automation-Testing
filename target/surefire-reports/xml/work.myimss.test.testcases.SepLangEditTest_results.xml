@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sep Lang Edit Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.225">
+  <properties />
+  
+  
+            <testcase name="sepLangEditTest" time="4.225" classname="work.myimss.test.testcases.SepLangEditTest" />
+      
+</testsuite>

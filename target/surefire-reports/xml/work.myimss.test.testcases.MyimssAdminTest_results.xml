@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Myimss Admin Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.347">
+  <properties />
+  
+  
+            <testcase name="myimssAdminTest" time="2.347" classname="work.myimss.test.testcases.MyimssAdminTest" />
+      
+</testsuite>
