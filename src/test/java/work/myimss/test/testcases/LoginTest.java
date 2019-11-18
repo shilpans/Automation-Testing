@@ -5,6 +5,7 @@ import java.util.Hashtable;
 
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.testng.Assert;
 import org.testng.Reporter;
@@ -18,22 +19,32 @@ public class LoginTest extends TestBase{
 	
 
 	@Test(dataProviderClass=TestUtil.class,dataProvider="dp")
-		public void loginTest(String username,String password) throws InterruptedException
+		public void loginTest(Hashtable<String,String> data) throws InterruptedException
 		{
 			log.debug("Inside Login Test!!!!!!!!!!");
-			type("userName_XPATH",username);
-			type("password_XPATH",password);
+
+			clear("userName_XPATH");
+			type("userName_XPATH",data.get("username"));
+			clear("password_XPATH");
+			type("password_XPATH",data.get("password"));
 			click("signIn_XPATH");
-			log.debug("Login Successfully executed!!!!!!!!!!");
-			Reporter.log("Login Successfully executed!!!!!!!!!!");
+			Thread.sleep(1000);
+			
+			WebElement xx=driver.findElement(By.xpath("//button[@id='modalok']"));
+			
+			if(xx.isDisplayed())
+			{
+				click("AlertOK_XPATH");
+			}
 			
 			Assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("apps_XPATH","Login not Successfull"))));
+			log.debug("Login Successfully executed!!!!!!!!!!");
+			Reporter.log("Login Successfully executed!!!!!!!!!!");
 			
 //			Alert alert=wait.until(ExpectedConditions.alertIsPresent());
 //			Thread.sleep(3000);
 //			Assert.assertTrue(alert.getText().contains(alertText));
 //			Thread.sleep(3000);	
-//			alert.accept();
 		
 		}
 	}	

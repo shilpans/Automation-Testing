@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="1.846">
+           time="4.317">
   <properties />
   
   
-            <testcase name="applicationConfigurationAdministrationTest" time="1.846" classname="work.myimss.test.testcases.ApplicationConfigurationAdministrationTest" />
+            <testcase name="applicationConfigurationAdministrationTest" time="4.317" classname="work.myimss.test.testcases.ApplicationConfigurationAdministrationTest" />
       
 </testsuite>

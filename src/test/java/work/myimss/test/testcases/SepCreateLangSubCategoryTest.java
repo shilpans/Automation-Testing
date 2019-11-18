@@ -1,5 +1,7 @@
 package work.myimss.test.testcases;
 
+import java.util.Hashtable;
+
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.Reporter;
@@ -12,14 +14,14 @@ public class SepCreateLangSubCategoryTest extends TestBase
 	{
 	
 	@Test(dataProviderClass=TestUtil.class,dataProvider="dp")
-	public void sepCreateLangSubCategoryTest(String language, String name)
+	public void sepCreateLangSubCategoryTest(Hashtable<String,String> data)
 	{
 		log.debug("Inside SepCreateLangSubCategory");
 		click("createLang_XPATH");
 		Assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("selectLang_XPATH","Failed to click on SepCreateLangSubCategoryTest"))));
 		
-		type("selectLang_XPATH",language);
-		type("langName_XPATH",name);
+		select("selectLang_XPATH",data.get("language"));
+		type("langName_XPATH",data.get("name"));
 		
 		click("submit_XPATH");
 		getText("successAlert_XPATH");

@@ -12,7 +12,7 @@ public class SepLangSubCategoryTest extends TestBase{
 	public void sepLangSubCategoryTest()
 	{
 		log.debug("Inside SepLangSubCategoryTest");
-		click("sepLangSubCategory_XPATH");
+		click("sepLangCategory_XPATH");
 		Assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("createLang_XPATH","Failed to click on SepLangSubCategoryTest"))));
 		log.debug("SepLangSubCategoryTest Successfully executed");
 		Reporter.log("SepLangSubCategoryTest Successfully executed");

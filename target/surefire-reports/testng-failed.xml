@@ -6,15 +6,37 @@
     <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
     <listener class-name="work.myimss.test.listeners.CustomListeners"/>
   </listeners>
-  <test name="Sep Create Test Request Test(failed)">
+  <test name="Login Test(failed)">
     <classes>
-      <class name="work.myimss.test.testcases.SepCreateTestRequestTest">
+      <class name="work.myimss.test.testcases.LoginTest">
         <methods>
+          <include name="loginTest" invocation-numbers="0 1 2 3"/>
           <include name="setUp"/>
           <include name="tearDown"/>
-          <include name="sepCreateTestRequestTest" invocation-numbers="0"/>
         </methods>
-      </class> <!-- work.myimss.test.testcases.SepCreateTestRequestTest -->
+      </class> <!-- work.myimss.test.testcases.LoginTest -->
     </classes>
-  </test> <!-- Sep Create Test Request Test(failed) -->
+  </test> <!-- Login Test(failed) -->
+  <test name="Sep Approve Question Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepApproveQuestionTest">
+        <methods>
+          <include name="sepApproveQuestionTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepApproveQuestionTest -->
+    </classes>
+  </test> <!-- Sep Approve Question Test(failed) -->
+  <test name="Sep Evaluation Results Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepEvaluationResultsTest">
+        <methods>
+          <include name="sepEvaluationResultsTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepEvaluationResultsTest -->
+    </classes>
+  </test> <!-- Sep Evaluation Results Test(failed) -->
 </suite> <!-- Failed suite [Data Driven Basics] -->

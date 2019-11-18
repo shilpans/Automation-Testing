@@ -8,7 +8,6 @@
        <listener class-name="work.myimss.test.listeners.CustomListeners"/>
   </listeners>
     
-    
 	<test name="Login Test">
 		<classes>
 			<class name="work.myimss.test.testcases.LoginTest" />
@@ -172,4 +171,69 @@
 		</classes>
 	</test> <!-- Test -->
 	
+	<test name="Sep Assign Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepAssignTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep View Assigned Candidates Results Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepViewAssignedCandidatesResultsTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Define Evaluation Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepDefineEvaluationTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Define Section Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepDefineSectionTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Question Management Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepQuestionManagementTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Submit Question Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepSubmitQuestionTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Question Approval Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepQuestionApprovalTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Approve Question Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepApproveQuestionTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Reports Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepReportsTest" />
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="Sep Audit Details Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepAuditDetailsTest" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test name="Sep Evaluation Results Test">
+		<classes>
+			<class name="work.myimss.test.testcases.SepEvaluationResultsTest" />
+		</classes>
+	</test> <!-- Test -->
 </suite> <!-- Suite -->

@@ -113,6 +113,7 @@
 				<version>2.18.1</version>
 				<configuration>
 					<testFailureIgnore>false</testFailureIgnore>
+					<forkMode>never</forkMode>
 					<suiteXmlFiles>
 						<suiteXmlFile>src/test/resources/runner/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>

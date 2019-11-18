@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="2.532">
+           time="1.898">
   <properties />
   
   
-            <testcase name="roleAdvancedSearchTest" time="2.532" classname="work.myimss.test.testcases.RoleAdvancedSearchTest" />
+            <testcase name="roleAdvancedSearchTest" time="1.898" classname="work.myimss.test.testcases.RoleAdvancedSearchTest" />
       
 </testsuite>

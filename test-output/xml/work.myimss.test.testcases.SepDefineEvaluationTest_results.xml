@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Sep Define Evaluation Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.779">
+  <properties />
+  
+  
+            <testcase name="sepDefineEvaluationTest" time="1.779" classname="work.myimss.test.testcases.SepDefineEvaluationTest" />
+      
+</testsuite>

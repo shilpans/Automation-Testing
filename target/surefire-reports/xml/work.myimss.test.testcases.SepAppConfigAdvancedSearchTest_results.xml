@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="2.542">
+           time="2.718">
   <properties />
   
   
-            <testcase name="sepAppConfigAdvancedSearchTest" time="2.542" classname="work.myimss.test.testcases.SepAppConfigAdvancedSearchTest" />
+            <testcase name="sepAppConfigAdvancedSearchTest" time="2.718" classname="work.myimss.test.testcases.SepAppConfigAdvancedSearchTest" />
       
 </testsuite>

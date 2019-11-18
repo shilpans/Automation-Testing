@@ -1,5 +1,7 @@
 package work.myimss.test.testcases;
 
+import java.util.Hashtable;
+
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.Reporter;
@@ -13,7 +15,7 @@ public class UserAdvancedSearchTest extends TestBase{
 	
 
 	@Test(dataProviderClass=TestUtil.class,dataProvider="dp")
-	public void userAdvancedSearchTest(String fname) throws InterruptedException
+	public void userAdvancedSearchTest(Hashtable<String,String> data) throws InterruptedException
 	{
 		log.debug("Inside UserAdvancedSearchTest");
 		click("advancedSearch_XPATH");
@@ -21,7 +23,7 @@ public class UserAdvancedSearchTest extends TestBase{
 		log.debug("userAdvancedSearchTest Succefully executed");
 		Reporter.log("userAdvancedSearchTest Successfully executed");
 
-		type("fname_XPATH",fname);
+		type("fname_XPATH",data.get("fname"));
 		click("apply_XPATH");
 		Reporter.log("UserAdvancedSearchTest Successfully executed!!!!!!!!!!");
 	}

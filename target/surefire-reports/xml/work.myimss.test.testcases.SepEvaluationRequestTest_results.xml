@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="2.139">
+           time="2.382">
   <properties />
   
   
-            <testcase name="sepEvaluationRequestTest" time="2.139" classname="work.myimss.test.testcases.SepEvaluationRequestTest" />
+            <testcase name="sepEvaluationRequestTest" time="2.382" classname="work.myimss.test.testcases.SepEvaluationRequestTest" />
       
 </testsuite>

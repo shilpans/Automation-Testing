@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="5.875">
+           time="5.303">
   <properties />
   
   
-            <testcase name="roleEditTest" time="5.875" classname="work.myimss.test.testcases.RoleEditTest" />
+            <testcase name="roleEditTest" time="5.303" classname="work.myimss.test.testcases.RoleEditTest" />
       
 </testsuite>

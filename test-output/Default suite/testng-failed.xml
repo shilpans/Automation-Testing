@@ -3,13 +3,13 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="work.myimss.test.testcases.LoginTest">
+      <class name="work.myimss.test.testcases.SepCreateTestRequestTest">
         <methods>
-          <include name="loginTest"/>
           <include name="setUp"/>
           <include name="tearDown"/>
+          <include name="sepCreateTestRequestTest" invocation-numbers="0"/>
         </methods>
-      </class> <!-- work.myimss.test.testcases.LoginTest -->
+      </class> <!-- work.myimss.test.testcases.SepCreateTestRequestTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

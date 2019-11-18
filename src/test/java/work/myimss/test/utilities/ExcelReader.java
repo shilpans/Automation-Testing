@@ -97,10 +97,14 @@ public class ExcelReader {
 			  return cell.getStringCellValue();
 		else if(cell.getCellType()==Cell.CELL_TYPE_NUMERIC || cell.getCellType()==Cell.CELL_TYPE_FORMULA ){
 			  
+//			  String cellText  = String.valueOf(cell.getNumericCellValue());
+			  
 			  String cellText  = String.valueOf(cell.getNumericCellValue());
 			  if (HSSFDateUtil.isCellDateFormatted(cell)) {
 		           
 				  double d = cell.getNumericCellValue();
+				  
+//				  int d = cell.getNumericCellValue();
 
 				  Calendar cal =Calendar.getInstance();
 				  cal.setTime(HSSFDateUtil.getJavaDate(d));

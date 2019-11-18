@@ -1,5 +1,7 @@
 package work.myimss.test.testcases;
 
+import java.util.Hashtable;
+
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.Reporter;
@@ -11,7 +13,7 @@ import work.myimss.test.utilities.TestUtil;
 public class AppConfigEditTest extends TestBase{
 	
 	@Test(dataProviderClass=TestUtil.class,dataProvider="dp")
-	public void appConfigEditTest(String configValue)
+	public void appConfigEditTest(Hashtable<String,String> data)
 	{
 		log.debug("Inside appConfigEditTest");
 		click("Edit_XPATH");
@@ -19,7 +21,7 @@ public class AppConfigEditTest extends TestBase{
 		log.debug("appConfigEditTest Succefully executed");
 		
 		clear("configValue_XPATH");
-		type("configValue_XPATH",configValue);
+		type("configValue_XPATH",data.get("configValue"));
 		click("submit_XPATH");
 		getText("successAlert_XPATH");
 		Reporter.log("appConfigEditTest Successfully executed!!!!!!!!!!");

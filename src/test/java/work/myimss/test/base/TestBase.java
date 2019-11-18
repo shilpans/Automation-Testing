@@ -3,17 +3,20 @@ package work.myimss.test.base;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.util.List;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
@@ -103,6 +106,21 @@ public class TestBase {
 		test.log(LogStatus.INFO,"Clicking on: "+locator);
 	}
 	
+	public void submit(String locator)
+	{
+		if(locator.endsWith("_XPATH"))
+		{
+		driver.findElement(By.xpath(OR.getProperty(locator))).submit();
+		}else if(locator.endsWith("_CSS"))
+		{
+		driver.findElement(By.cssSelector(OR.getProperty(locator))).submit();
+		}else if(locator.endsWith("_ID"))
+		{
+		driver.findElement(By.id(OR.getProperty(locator))).submit();
+		}
+		test.log(LogStatus.INFO,"Clicking on: "+locator);
+	}
+	
 	public void type(String locator, String value)
 	{
 		if(locator.endsWith("_XPATH"))
@@ -118,6 +136,26 @@ public class TestBase {
 		test.log(LogStatus.INFO,"Typing in: "+locator+"entered value as: "+value);
 	}
 	
+	static List<WebElement> element;
+	public static WebElement codeMirror;
+	public void codeMirrorType(String locator, String value)
+	{
+		if (locator.endsWith("_XPATH")) {
+			codeMirror = driver.findElement(By.xpath(OR.getProperty(locator)));
+		} else if (locator.endsWith("_CSS")) {
+			codeMirror = driver.findElement(By.cssSelector(OR.getProperty(locator)));
+		} else if (locator.endsWith("_ID")) {
+			codeMirror = driver.findElement(By.id(OR.getProperty(locator)));
+		}
+		
+		Actions a = new Actions(driver);
+		a.click(codeMirror).perform();
+		a.sendKeys(value).perform();
+	   
+		test.log(LogStatus.INFO,"Typing in: "+locator+"entered value as: "+value);
+	   
+	}
+
 	public void clear(String locator)
 	{
 		if(locator.endsWith("_XPATH"))
@@ -166,6 +204,24 @@ public class TestBase {
 
 		test.log(LogStatus.INFO, "Selecting from dropdown : " + locator + " value as " + value);
 
+	}
+	
+	static WebElement sss;
+	public void radioSelect(String locator, String value)
+	{
+		if (locator.endsWith("_CSS")) {
+			sss = driver.findElement(By.cssSelector(OR.getProperty(locator)));
+		} else if (locator.endsWith("_XPATH")) {
+			sss = driver.findElement(By.xpath(OR.getProperty(locator)));
+		} else if (locator.endsWith("_ID")) {
+			sss = driver.findElement(By.id(OR.getProperty(locator)));
+		}
+		
+		if(sss.getText()=="1")
+		{
+			
+		}
+		
 	}
 	
 	public boolean isElementPresent(By by)

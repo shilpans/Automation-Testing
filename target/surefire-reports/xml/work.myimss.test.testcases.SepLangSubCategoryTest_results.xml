@@ -4,10 +4,10 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="2.505">
+           time="2.134">
   <properties />
   
   
-            <testcase name="sepLangSubCategoryTest" time="2.505" classname="work.myimss.test.testcases.SepLangSubCategoryTest" />
+            <testcase name="sepLangSubCategoryTest" time="2.134" classname="work.myimss.test.testcases.SepLangSubCategoryTest" />
       
 </testsuite>

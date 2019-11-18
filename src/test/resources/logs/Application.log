@@ -1,116 +1,338 @@
-11/10/2019 11:04:24 devpinoyLogger config file loaded !!!!
-11/10/2019 11:04:24 devpinoyLogger OR file loaded !!!!
-11/10/2019 11:05:18 devpinoyLogger Firefox launched!!!!
-11/10/2019 11:05:24 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 11:05:27 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 11:05:31 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 11:05:32 devpinoyLogger Inside MyimssAdminTest Test
-11/10/2019 11:05:36 devpinoyLogger Inside Administration Test
-11/10/2019 11:05:37 devpinoyLogger Inside Login Test
-11/10/2019 11:43:08 devpinoyLogger config file loaded !!!!
-11/10/2019 11:43:08 devpinoyLogger OR file loaded !!!!
-11/10/2019 11:43:19 devpinoyLogger Firefox launched!!!!
-11/10/2019 11:43:22 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 11:43:22 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 11:43:25 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 11:43:25 devpinoyLogger Inside MyimssAdminTest Test
-11/10/2019 11:43:27 devpinoyLogger Inside Administration Test
-11/10/2019 11:43:27 devpinoyLogger Inside Login Test
-11/10/2019 11:45:07 devpinoyLogger config file loaded !!!!
-11/10/2019 11:45:07 devpinoyLogger OR file loaded !!!!
-11/10/2019 11:45:17 devpinoyLogger Firefox launched!!!!
-11/10/2019 11:45:20 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 11:45:20 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 11:45:23 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 11:45:52 devpinoyLogger config file loaded !!!!
-11/10/2019 11:45:52 devpinoyLogger OR file loaded !!!!
-11/10/2019 11:46:03 devpinoyLogger Firefox launched!!!!
-11/10/2019 11:46:05 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 11:46:05 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 11:46:08 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 11:46:08 devpinoyLogger Inside MyimssAdminTest Test
-11/10/2019 11:46:10 devpinoyLogger MyimssAdminTest Successfully executed
-11/10/2019 11:46:10 devpinoyLogger Inside Administration Test
-11/10/2019 11:46:10 devpinoyLogger Inside Login Test
-11/10/2019 11:49:27 devpinoyLogger config file loaded !!!!
-11/10/2019 11:49:27 devpinoyLogger OR file loaded !!!!
-11/10/2019 11:49:38 devpinoyLogger Firefox launched!!!!
-11/10/2019 11:49:42 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 11:49:43 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 11:49:45 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 11:49:45 devpinoyLogger Inside MyimssAdminTest Test
-11/10/2019 11:49:47 devpinoyLogger MyimssAdminTest Successfully executed
-11/10/2019 11:49:47 devpinoyLogger Inside Administration Test
-11/10/2019 11:49:47 devpinoyLogger AdministrationTest Successfully executed
-11/10/2019 11:49:47 devpinoyLogger Inside Login Test
-11/10/2019 11:49:49 devpinoyLogger Login Succefully executed
-11/10/2019 11:54:24 devpinoyLogger config file loaded !!!!
-11/10/2019 11:54:24 devpinoyLogger OR file loaded !!!!
-11/10/2019 11:54:35 devpinoyLogger Firefox launched!!!!
-11/10/2019 11:54:39 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 11:54:39 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 11:54:41 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 11:54:41 devpinoyLogger Inside MyimssAdminTest Test
-11/10/2019 11:54:43 devpinoyLogger MyimssAdminTest Successfully executed
-11/10/2019 11:54:43 devpinoyLogger Inside Administration Test
-11/10/2019 11:54:44 devpinoyLogger AdministrationTest Successfully executed
-11/10/2019 11:54:44 devpinoyLogger Inside Login Test
-11/10/2019 11:54:45 devpinoyLogger Login Succefully executed
-11/10/2019 11:54:45 devpinoyLogger Inside CreateRole Test
-11/10/2019 11:54:47 devpinoyLogger CreateRoleTest Succefully executed
-11/10/2019 11:58:48 devpinoyLogger config file loaded !!!!
-11/10/2019 11:58:48 devpinoyLogger OR file loaded !!!!
-11/10/2019 11:58:59 devpinoyLogger Firefox launched!!!!
-11/10/2019 11:59:02 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 11:59:02 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 11:59:05 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 11:59:05 devpinoyLogger Inside MyimssAdminTest Test
-11/10/2019 11:59:07 devpinoyLogger MyimssAdminTest Successfully executed
-11/10/2019 11:59:07 devpinoyLogger Inside Administration Test
-11/10/2019 11:59:07 devpinoyLogger AdministrationTest Successfully executed
-11/10/2019 11:59:07 devpinoyLogger Inside Login Test
-11/10/2019 11:59:09 devpinoyLogger Login Succefully executed
-11/10/2019 11:59:09 devpinoyLogger Inside CreateRole Test
-11/10/2019 11:59:10 devpinoyLogger CreateRoleTest Succefully executed
-11/10/2019 12:16:17 devpinoyLogger config file loaded !!!!
-11/10/2019 12:16:17 devpinoyLogger OR file loaded !!!!
-11/10/2019 12:16:33 devpinoyLogger Firefox launched!!!!
-11/10/2019 12:16:36 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 12:16:37 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 12:16:39 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 12:16:39 devpinoyLogger Inside MyimssAdminTest Test
-11/10/2019 12:16:46 devpinoyLogger MyimssAdminTest Successfully executed
-11/10/2019 12:16:46 devpinoyLogger Inside Administration Test
-11/10/2019 12:16:47 devpinoyLogger AdministrationTest Successfully executed
-11/10/2019 12:16:47 devpinoyLogger Inside Login Test
-11/10/2019 12:16:49 devpinoyLogger Login Succefully executed
-11/10/2019 12:16:49 devpinoyLogger Inside CreateRole Test
-11/10/2019 12:16:50 devpinoyLogger CreateRoleTest Succefully executed
-11/10/2019 12:23:23 devpinoyLogger config file loaded !!!!
-11/10/2019 12:23:23 devpinoyLogger OR file loaded !!!!
-11/10/2019 12:23:33 devpinoyLogger Firefox launched!!!!
-11/10/2019 12:23:36 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 12:23:36 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 12:23:39 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 12:23:39 devpinoyLogger Inside MyimssAdminTest Test
-11/10/2019 12:23:40 devpinoyLogger MyimssAdminTest Successfully executed
-11/10/2019 12:23:40 devpinoyLogger Inside Administration Test
-11/10/2019 12:23:41 devpinoyLogger AdministrationTest Successfully executed
-11/10/2019 12:23:41 devpinoyLogger Inside Login Test
-11/10/2019 12:23:42 devpinoyLogger Login Succefully executed
-11/10/2019 12:23:42 devpinoyLogger Inside CreateRole Test
-11/10/2019 12:23:44 devpinoyLogger CreateRoleTest Succefully executed
-11/10/2019 14:21:25 devpinoyLogger config file loaded !!!!
-11/10/2019 14:21:25 devpinoyLogger OR file loaded !!!!
-11/10/2019 14:21:45 devpinoyLogger Firefox launched!!!!
-11/10/2019 14:21:51 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
-11/10/2019 14:21:51 devpinoyLogger Inside Login Test!!!!!!!!!!
-11/10/2019 14:21:56 devpinoyLogger Login Successfully executed!!!!!!!!!!
-11/10/2019 14:21:56 devpinoyLogger Inside MyimssAdminTest Test
-11/10/2019 14:22:00 devpinoyLogger MyimssAdminTest Successfully executed
-11/10/2019 14:22:00 devpinoyLogger Inside Administration Test
-11/10/2019 14:22:00 devpinoyLogger AdministrationTest Successfully executed
-11/10/2019 14:22:00 devpinoyLogger Inside Login Test
-11/10/2019 14:22:02 devpinoyLogger Login Succefully executed
-11/10/2019 14:22:03 devpinoyLogger Inside CreateRole Test
-11/10/2019 14:22:04 devpinoyLogger CreateRoleTest Succefully executed
+31/10/2019 15:35:04 devpinoyLogger config file loaded !!!!
+31/10/2019 15:35:04 devpinoyLogger OR file loaded !!!!
+31/10/2019 15:35:10 devpinoyLogger Chrome launched!!!!
+31/10/2019 15:35:13 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
+31/10/2019 15:35:15 devpinoyLogger Inside Login Test!!!!!!!!!!
+31/10/2019 15:35:19 devpinoyLogger Login Successfully executed!!!!!!!!!!
+31/10/2019 15:35:20 devpinoyLogger Inside MyimssAdminTest Test
+31/10/2019 15:35:23 devpinoyLogger MyimssAdminTest Successfully executed
+31/10/2019 15:35:24 devpinoyLogger Inside Administration Test
+31/10/2019 15:35:24 devpinoyLogger AdministrationTest Successfully executed
+31/10/2019 15:35:24 devpinoyLogger Inside RoleManagementAdministrationTest
+31/10/2019 15:35:28 devpinoyLogger RoleManagementAdministrationTest Succefully executed
+31/10/2019 15:35:28 devpinoyLogger Inside CreateRole Test
+31/10/2019 15:35:35 devpinoyLogger Inside RoleAdvancedSearchTest
+31/10/2019 15:35:35 devpinoyLogger RoleAdvancedSearchTest Succefully executed
+31/10/2019 15:35:37 devpinoyLogger Inside RoleEditTest
+31/10/2019 15:35:40 devpinoyLogger RoleEditTest Succefully executed
+31/10/2019 15:35:44 devpinoyLogger Inside RoleDeleteTest
+31/10/2019 15:35:47 devpinoyLogger RoleDeleteTest Succefully executed
+31/10/2019 15:35:49 devpinoyLogger Inside UserManagementAdministration Test
+31/10/2019 15:35:51 devpinoyLogger Inside UserAdvancedSearchTest
+31/10/2019 15:35:51 devpinoyLogger userAdvancedSearchTest Succefully executed
+31/10/2019 15:35:53 devpinoyLogger Inside UserEditTest
+31/10/2019 15:35:55 devpinoyLogger UserEditTest Succefully executed
+31/10/2019 15:35:59 devpinoyLogger Inside ApplicationConfigurationAdministrationTest
+31/10/2019 15:36:01 devpinoyLogger ApplicationConfigurationAdministrationTest Succefully executed
+31/10/2019 15:36:01 devpinoyLogger Inside AppConfigAdvancedSearchTest
+31/10/2019 15:36:02 devpinoyLogger appConfigAdvancedSearchTest Succefully executed
+31/10/2019 15:36:04 devpinoyLogger Inside appConfigEditTest
+31/10/2019 15:36:05 devpinoyLogger appConfigEditTest Succefully executed
+31/10/2019 15:36:08 devpinoyLogger Inside MainMenuSkillsTest
+31/10/2019 15:36:10 devpinoyLogger Successfully executed MainMenuTest
+31/10/2019 15:36:10 devpinoyLogger Inside SepAdministration Test
+31/10/2019 15:36:11 devpinoyLogger SepAdministrationTest Successfully executed
+31/10/2019 15:36:11 devpinoyLogger Inside SepApplicationConfig Test
+31/10/2019 15:36:13 devpinoyLogger SepApplicationConfigTest Succefully executed
+31/10/2019 15:36:13 devpinoyLogger Inside SepAppConfigAdvancedSearchTest
+31/10/2019 15:36:14 devpinoyLogger SepAppConfigAdvancedSearchTest Succefully executed
+31/10/2019 15:36:16 devpinoyLogger Inside SepAppConfigEditTest
+31/10/2019 15:36:17 devpinoyLogger appConfigEditTest Successfully executed
+31/10/2019 15:36:20 devpinoyLogger Inside SepLangSubCategoryTest
+31/10/2019 15:36:21 devpinoyLogger SepLangSubCategoryTest Successfully executed
+31/10/2019 15:36:21 devpinoyLogger Inside SepCreateLangSubCategory
+31/10/2019 15:36:25 devpinoyLogger SepLangSubCategoryTest Successfully executed
+31/10/2019 15:36:26 devpinoyLogger Inside SepLangAdvancedSearchTest
+31/10/2019 15:36:26 devpinoyLogger SepLangAdvancedSearchTest Succefully executed
+31/10/2019 15:36:28 devpinoyLogger Inside SepLangEditTest
+31/10/2019 15:36:29 devpinoyLogger SepLangEditTest Successfully executed
+31/10/2019 15:36:32 devpinoyLogger Inside SepLangDeleteTest
+31/10/2019 15:36:33 devpinoyLogger SepLangDeleteTest Successfully executed
+31/10/2019 15:36:35 devpinoyLogger Inside SepEvaluationTest
+31/10/2019 15:36:35 devpinoyLogger SepEvaluationTest Successfully executed
+31/10/2019 15:36:35 devpinoyLogger Inside SepEvaluationRequestTest
+31/10/2019 15:36:37 devpinoyLogger SepEvaluationRequestTest Successfully executed
+31/10/2019 15:36:38 devpinoyLogger Inside SepCreateTestRequestTest
+31/10/2019 15:36:39 devpinoyLogger SepCreateTestRequestTest Successfully executed
+31/10/2019 15:36:39 devpinoyLogger 1920.0
+31/10/2019 15:36:39 devpinoyLogger 1920.0
+31/10/2019 15:36:41 devpinoyLogger Inside SepDefineEvaluationTest
+31/10/2019 15:36:42 devpinoyLogger Inside SepDefineSectionTest
+04/11/2019 14:45:38 devpinoyLogger config file loaded !!!!
+04/11/2019 14:45:38 devpinoyLogger OR file loaded !!!!
+04/11/2019 14:45:44 devpinoyLogger Chrome launched!!!!
+04/11/2019 14:45:46 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
+04/11/2019 14:45:48 devpinoyLogger Inside Login Test!!!!!!!!!!
+04/11/2019 14:45:50 devpinoyLogger Login Successfully executed!!!!!!!!!!
+04/11/2019 14:45:51 devpinoyLogger Inside MyimssAdminTest Test
+04/11/2019 14:45:53 devpinoyLogger MyimssAdminTest Successfully executed
+04/11/2019 14:45:53 devpinoyLogger Inside Administration Test
+04/11/2019 14:45:53 devpinoyLogger AdministrationTest Successfully executed
+04/11/2019 14:45:53 devpinoyLogger Inside RoleManagementAdministrationTest
+04/11/2019 14:46:00 devpinoyLogger RoleManagementAdministrationTest Succefully executed
+04/11/2019 14:46:00 devpinoyLogger Inside CreateRole Test
+04/11/2019 14:46:05 devpinoyLogger Inside RoleAdvancedSearchTest
+04/11/2019 14:46:05 devpinoyLogger RoleAdvancedSearchTest Succefully executed
+04/11/2019 14:46:07 devpinoyLogger Inside RoleEditTest
+04/11/2019 14:46:10 devpinoyLogger RoleEditTest Succefully executed
+04/11/2019 14:46:13 devpinoyLogger Inside RoleDeleteTest
+04/11/2019 14:46:16 devpinoyLogger RoleDeleteTest Succefully executed
+04/11/2019 14:46:25 devpinoyLogger Inside UserManagementAdministration Test
+04/11/2019 14:46:28 devpinoyLogger Inside UserAdvancedSearchTest
+04/11/2019 14:46:28 devpinoyLogger userAdvancedSearchTest Succefully executed
+04/11/2019 14:46:30 devpinoyLogger Inside UserEditTest
+04/11/2019 14:46:32 devpinoyLogger UserEditTest Succefully executed
+04/11/2019 14:46:35 devpinoyLogger Inside ApplicationConfigurationAdministrationTest
+04/11/2019 14:46:37 devpinoyLogger ApplicationConfigurationAdministrationTest Succefully executed
+04/11/2019 14:46:37 devpinoyLogger Inside AppConfigAdvancedSearchTest
+04/11/2019 14:46:37 devpinoyLogger appConfigAdvancedSearchTest Succefully executed
+04/11/2019 14:46:39 devpinoyLogger Inside appConfigEditTest
+04/11/2019 14:46:41 devpinoyLogger appConfigEditTest Succefully executed
+04/11/2019 14:46:43 devpinoyLogger Inside MainMenuSkillsTest
+04/11/2019 14:46:46 devpinoyLogger Successfully executed MainMenuTest
+04/11/2019 14:46:46 devpinoyLogger Inside SepAdministration Test
+04/11/2019 14:46:47 devpinoyLogger SepAdministrationTest Successfully executed
+04/11/2019 14:46:47 devpinoyLogger Inside SepApplicationConfig Test
+04/11/2019 14:46:49 devpinoyLogger SepApplicationConfigTest Succefully executed
+04/11/2019 14:46:49 devpinoyLogger Inside SepAppConfigAdvancedSearchTest
+04/11/2019 14:46:49 devpinoyLogger SepAppConfigAdvancedSearchTest Succefully executed
+04/11/2019 14:46:51 devpinoyLogger Inside SepAppConfigEditTest
+04/11/2019 14:46:53 devpinoyLogger appConfigEditTest Successfully executed
+04/11/2019 14:46:55 devpinoyLogger Inside SepLangSubCategoryTest
+04/11/2019 14:46:57 devpinoyLogger SepLangSubCategoryTest Successfully executed
+04/11/2019 14:46:57 devpinoyLogger Inside SepCreateLangSubCategory
+04/11/2019 14:47:01 devpinoyLogger SepLangSubCategoryTest Successfully executed
+04/11/2019 14:47:01 devpinoyLogger Inside SepLangAdvancedSearchTest
+04/11/2019 14:47:01 devpinoyLogger SepLangAdvancedSearchTest Succefully executed
+04/11/2019 14:47:03 devpinoyLogger Inside SepLangEditTest
+04/11/2019 14:47:05 devpinoyLogger SepLangEditTest Successfully executed
+04/11/2019 14:47:07 devpinoyLogger Inside SepLangDeleteTest
+04/11/2019 14:47:09 devpinoyLogger SepLangDeleteTest Successfully executed
+04/11/2019 14:47:11 devpinoyLogger Inside SepEvaluationTest
+04/11/2019 14:47:11 devpinoyLogger SepEvaluationTest Successfully executed
+04/11/2019 14:47:11 devpinoyLogger Inside SepEvaluationRequestTest
+04/11/2019 14:47:13 devpinoyLogger SepEvaluationRequestTest Successfully executed
+04/11/2019 14:47:13 devpinoyLogger Inside SepCreateTestRequestTest
+04/11/2019 14:47:15 devpinoyLogger SepCreateTestRequestTest Successfully executed
+04/11/2019 14:47:15 devpinoyLogger 1920.0
+04/11/2019 14:47:15 devpinoyLogger 1920.0
+04/11/2019 14:47:18 devpinoyLogger Inside SepDefineEvaluationTest
+04/11/2019 14:47:19 devpinoyLogger SepDefineEvaluationTest Successfully executed
+04/11/2019 14:47:19 devpinoyLogger Inside SepDefineSectionTest
+04/11/2019 14:47:28 devpinoyLogger SepDefineSectionTest Successfully executed
+04/11/2019 14:47:28 devpinoyLogger Inside SepQuestionManagementTest
+04/11/2019 14:47:30 devpinoyLogger SepQuestionManagementTest Successfully executed
+04/11/2019 14:47:30 devpinoyLogger Inside SepSubmitQuestionTest
+04/11/2019 14:47:33 devpinoyLogger SepSubmitQuestionTest Successfully executed
+04/11/2019 14:47:33 devpinoyLogger Inside SepQuestionApprovalTest
+04/11/2019 14:47:34 devpinoyLogger SepQuestionApprovalTest Successfully executed
+04/11/2019 14:47:34 devpinoyLogger Inside SepApproveQuestionTest
+04/11/2019 14:47:39 devpinoyLogger SepApproveQuestionTest Successfully executed
+04/11/2019 15:24:54 devpinoyLogger config file loaded !!!!
+04/11/2019 15:24:54 devpinoyLogger OR file loaded !!!!
+04/11/2019 15:25:01 devpinoyLogger Chrome launched!!!!
+04/11/2019 15:25:05 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
+04/11/2019 15:25:07 devpinoyLogger Inside Login Test!!!!!!!!!!
+04/11/2019 15:25:12 devpinoyLogger Login Successfully executed!!!!!!!!!!
+04/11/2019 15:25:14 devpinoyLogger Inside MyimssAdminTest Test
+04/11/2019 15:25:17 devpinoyLogger MyimssAdminTest Successfully executed
+04/11/2019 15:25:18 devpinoyLogger Inside Administration Test
+04/11/2019 15:25:18 devpinoyLogger AdministrationTest Successfully executed
+04/11/2019 15:25:18 devpinoyLogger Inside RoleManagementAdministrationTest
+04/11/2019 15:25:30 devpinoyLogger RoleManagementAdministrationTest Succefully executed
+04/11/2019 15:25:30 devpinoyLogger Inside CreateRole Test
+04/11/2019 15:25:35 devpinoyLogger Inside RoleAdvancedSearchTest
+04/11/2019 15:25:36 devpinoyLogger RoleAdvancedSearchTest Succefully executed
+04/11/2019 15:25:39 devpinoyLogger Inside RoleEditTest
+04/11/2019 15:25:41 devpinoyLogger RoleEditTest Succefully executed
+04/11/2019 15:25:45 devpinoyLogger Inside RoleDeleteTest
+04/11/2019 15:25:47 devpinoyLogger RoleDeleteTest Succefully executed
+04/11/2019 15:25:49 devpinoyLogger Inside UserManagementAdministration Test
+04/11/2019 15:25:52 devpinoyLogger Inside UserAdvancedSearchTest
+04/11/2019 15:25:52 devpinoyLogger userAdvancedSearchTest Succefully executed
+04/11/2019 15:25:54 devpinoyLogger Inside UserEditTest
+04/11/2019 15:25:55 devpinoyLogger UserEditTest Succefully executed
+04/11/2019 15:25:58 devpinoyLogger Inside ApplicationConfigurationAdministrationTest
+04/11/2019 15:25:59 devpinoyLogger ApplicationConfigurationAdministrationTest Succefully executed
+04/11/2019 15:26:00 devpinoyLogger Inside AppConfigAdvancedSearchTest
+04/11/2019 15:26:00 devpinoyLogger appConfigAdvancedSearchTest Succefully executed
+04/11/2019 15:26:02 devpinoyLogger Inside appConfigEditTest
+04/11/2019 15:26:03 devpinoyLogger appConfigEditTest Succefully executed
+04/11/2019 15:26:06 devpinoyLogger Inside MainMenuSkillsTest
+04/11/2019 15:26:09 devpinoyLogger Successfully executed MainMenuTest
+04/11/2019 15:26:09 devpinoyLogger Inside SepAdministration Test
+04/11/2019 15:26:10 devpinoyLogger SepAdministrationTest Successfully executed
+04/11/2019 15:26:10 devpinoyLogger Inside SepApplicationConfig Test
+04/11/2019 15:26:12 devpinoyLogger SepApplicationConfigTest Succefully executed
+04/11/2019 15:26:12 devpinoyLogger Inside SepAppConfigAdvancedSearchTest
+04/11/2019 15:26:13 devpinoyLogger SepAppConfigAdvancedSearchTest Succefully executed
+04/11/2019 15:26:15 devpinoyLogger Inside SepAppConfigEditTest
+04/11/2019 15:26:16 devpinoyLogger appConfigEditTest Successfully executed
+04/11/2019 15:26:18 devpinoyLogger Inside SepLangSubCategoryTest
+04/11/2019 15:26:20 devpinoyLogger SepLangSubCategoryTest Successfully executed
+04/11/2019 15:26:20 devpinoyLogger Inside SepCreateLangSubCategory
+04/11/2019 15:26:24 devpinoyLogger SepLangSubCategoryTest Successfully executed
+04/11/2019 15:26:24 devpinoyLogger Inside SepLangAdvancedSearchTest
+04/11/2019 15:26:25 devpinoyLogger SepLangAdvancedSearchTest Succefully executed
+04/11/2019 15:26:26 devpinoyLogger Inside SepLangEditTest
+04/11/2019 15:26:28 devpinoyLogger SepLangEditTest Successfully executed
+04/11/2019 15:26:30 devpinoyLogger Inside SepLangDeleteTest
+04/11/2019 15:26:32 devpinoyLogger SepLangDeleteTest Successfully executed
+04/11/2019 15:26:34 devpinoyLogger Inside SepEvaluationTest
+04/11/2019 15:26:34 devpinoyLogger SepEvaluationTest Successfully executed
+04/11/2019 15:26:34 devpinoyLogger Inside SepEvaluationRequestTest
+04/11/2019 15:26:36 devpinoyLogger SepEvaluationRequestTest Successfully executed
+04/11/2019 15:26:36 devpinoyLogger Inside SepCreateTestRequestTest
+04/11/2019 15:26:38 devpinoyLogger SepCreateTestRequestTest Successfully executed
+04/11/2019 15:26:38 devpinoyLogger 1920.0
+04/11/2019 15:26:38 devpinoyLogger 1920.0
+04/11/2019 15:26:59 devpinoyLogger Inside SepDefineEvaluationTest
+04/11/2019 15:27:01 devpinoyLogger SepDefineEvaluationTest Successfully executed
+04/11/2019 15:27:01 devpinoyLogger Inside SepDefineSectionTest
+04/11/2019 15:27:09 devpinoyLogger SepDefineSectionTest Successfully executed
+04/11/2019 15:27:09 devpinoyLogger Inside SepQuestionManagementTest
+04/11/2019 15:27:11 devpinoyLogger SepQuestionManagementTest Successfully executed
+04/11/2019 15:27:11 devpinoyLogger Inside SepSubmitQuestionTest
+04/11/2019 15:27:14 devpinoyLogger SepSubmitQuestionTest Successfully executed
+04/11/2019 15:27:14 devpinoyLogger Inside SepQuestionApprovalTest
+04/11/2019 15:27:15 devpinoyLogger SepQuestionApprovalTest Successfully executed
+04/11/2019 15:27:15 devpinoyLogger Inside SepApproveQuestionTest
+04/11/2019 15:27:36 devpinoyLogger Inside SepReportsTest!!!!!!!!!!
+04/11/2019 15:27:36 devpinoyLogger SepReportsTest Successfully executed!!!!!!!!!!
+04/11/2019 15:27:36 devpinoyLogger Inside SepAuditDetailsTest!!!!!!!!!!
+04/11/2019 15:27:38 devpinoyLogger SepAuditDetailsTest Successfully executed!!!!!!!!!!
+05/11/2019 12:33:20 devpinoyLogger config file loaded !!!!
+05/11/2019 12:33:20 devpinoyLogger OR file loaded !!!!
+05/11/2019 12:33:25 devpinoyLogger Chrome launched!!!!
+05/11/2019 12:33:29 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
+05/11/2019 12:33:30 devpinoyLogger Inside Login Test!!!!!!!!!!
+05/11/2019 12:33:33 devpinoyLogger Login Successfully executed!!!!!!!!!!
+05/11/2019 12:33:34 devpinoyLogger Inside MyimssAdminTest Test
+05/11/2019 12:33:37 devpinoyLogger MyimssAdminTest Successfully executed
+05/11/2019 12:33:38 devpinoyLogger Inside Administration Test
+05/11/2019 12:33:38 devpinoyLogger AdministrationTest Successfully executed
+05/11/2019 12:33:38 devpinoyLogger Inside RoleManagementAdministrationTest
+05/11/2019 12:33:41 devpinoyLogger RoleManagementAdministrationTest Succefully executed
+05/11/2019 12:33:41 devpinoyLogger Inside CreateRole Test
+05/11/2019 12:33:47 devpinoyLogger Inside RoleAdvancedSearchTest
+05/11/2019 12:33:47 devpinoyLogger RoleAdvancedSearchTest Succefully executed
+05/11/2019 12:33:49 devpinoyLogger Inside RoleEditTest
+05/11/2019 12:33:52 devpinoyLogger RoleEditTest Succefully executed
+05/11/2019 12:33:55 devpinoyLogger Inside RoleDeleteTest
+05/11/2019 12:33:57 devpinoyLogger RoleDeleteTest Succefully executed
+05/11/2019 12:33:59 devpinoyLogger Inside UserManagementAdministration Test
+05/11/2019 12:34:01 devpinoyLogger Inside UserAdvancedSearchTest
+05/11/2019 12:34:01 devpinoyLogger userAdvancedSearchTest Succefully executed
+05/11/2019 12:34:03 devpinoyLogger Inside UserEditTest
+05/11/2019 12:34:04 devpinoyLogger UserEditTest Succefully executed
+05/11/2019 12:34:08 devpinoyLogger Inside ApplicationConfigurationAdministrationTest
+05/11/2019 12:34:10 devpinoyLogger ApplicationConfigurationAdministrationTest Succefully executed
+05/11/2019 12:34:10 devpinoyLogger Inside AppConfigAdvancedSearchTest
+05/11/2019 12:34:10 devpinoyLogger appConfigAdvancedSearchTest Succefully executed
+05/11/2019 12:34:12 devpinoyLogger Inside appConfigEditTest
+05/11/2019 12:34:13 devpinoyLogger appConfigEditTest Succefully executed
+05/11/2019 12:34:16 devpinoyLogger Inside MainMenuSkillsTest
+05/11/2019 12:34:18 devpinoyLogger Successfully executed MainMenuTest
+05/11/2019 12:34:18 devpinoyLogger Inside SepAdministration Test
+05/11/2019 12:34:19 devpinoyLogger SepAdministrationTest Successfully executed
+05/11/2019 12:34:19 devpinoyLogger Inside SepApplicationConfig Test
+05/11/2019 12:34:21 devpinoyLogger SepApplicationConfigTest Succefully executed
+05/11/2019 12:34:21 devpinoyLogger Inside SepAppConfigAdvancedSearchTest
+05/11/2019 12:34:21 devpinoyLogger SepAppConfigAdvancedSearchTest Succefully executed
+05/11/2019 12:34:23 devpinoyLogger Inside SepAppConfigEditTest
+05/11/2019 12:34:25 devpinoyLogger appConfigEditTest Successfully executed
+05/11/2019 12:34:27 devpinoyLogger Inside SepLangSubCategoryTest
+05/11/2019 12:34:28 devpinoyLogger Inside SepCreateLangSubCategory
+05/11/2019 12:34:49 devpinoyLogger Inside SepLangAdvancedSearchTest
+05/11/2019 12:34:49 devpinoyLogger SepLangAdvancedSearchTest Succefully executed
+05/11/2019 12:34:50 devpinoyLogger Inside SepLangEditTest
+05/11/2019 12:35:11 devpinoyLogger Inside SepLangDeleteTest
+05/11/2019 12:35:31 devpinoyLogger Inside SepEvaluationTest
+05/11/2019 12:35:32 devpinoyLogger SepEvaluationTest Successfully executed
+05/11/2019 12:35:32 devpinoyLogger Inside SepEvaluationRequestTest
+05/11/2019 12:35:34 devpinoyLogger SepEvaluationRequestTest Successfully executed
+05/11/2019 12:35:34 devpinoyLogger Inside SepCreateTestRequestTest
+05/11/2019 12:35:35 devpinoyLogger SepCreateTestRequestTest Successfully executed
+05/11/2019 12:35:36 devpinoyLogger 1920.0
+05/11/2019 12:35:36 devpinoyLogger 1920.0
+05/11/2019 12:35:40 devpinoyLogger Inside SepDefineEvaluationTest
+05/11/2019 12:35:41 devpinoyLogger SepDefineEvaluationTest Successfully executed
+05/11/2019 12:35:41 devpinoyLogger Inside SepDefineSectionTest
+05/11/2019 12:35:50 devpinoyLogger SepDefineSectionTest Successfully executed
+05/11/2019 12:35:50 devpinoyLogger Inside SepQuestionManagementTest
+05/11/2019 12:35:52 devpinoyLogger SepQuestionManagementTest Successfully executed
+05/11/2019 12:35:52 devpinoyLogger Inside SepSubmitQuestionTest
+05/11/2019 12:35:57 devpinoyLogger Inside SepQuestionApprovalTest
+05/11/2019 12:35:58 devpinoyLogger SepQuestionApprovalTest Successfully executed
+05/11/2019 12:35:58 devpinoyLogger Inside SepApproveQuestionTest
+05/11/2019 12:36:19 devpinoyLogger Inside SepReportsTest!!!!!!!!!!
+05/11/2019 12:36:19 devpinoyLogger SepReportsTest Successfully executed!!!!!!!!!!
+05/11/2019 12:36:19 devpinoyLogger Inside SepAuditDetailsTest!!!!!!!!!!
+05/11/2019 12:36:46 devpinoyLogger Inside SepEvaluationResultsTest!!!!!!!!!!
+05/11/2019 12:36:49 devpinoyLogger SepEvaluationResultsTest Successfully executed!!!!!!!!!!
+05/11/2019 14:19:48 devpinoyLogger config file loaded !!!!
+05/11/2019 14:19:48 devpinoyLogger OR file loaded !!!!
+05/11/2019 14:19:53 devpinoyLogger Chrome launched!!!!
+05/11/2019 14:19:56 devpinoyLogger Naviagted to ---> https://test.myimss.work/iauth/login
+05/11/2019 14:19:57 devpinoyLogger Inside Login Test!!!!!!!!!!
+05/11/2019 14:20:00 devpinoyLogger Login Successfully executed!!!!!!!!!!
+05/11/2019 14:20:02 devpinoyLogger Inside MyimssAdminTest Test
+05/11/2019 14:20:03 devpinoyLogger MyimssAdminTest Successfully executed
+05/11/2019 14:20:04 devpinoyLogger Inside Administration Test
+05/11/2019 14:20:04 devpinoyLogger AdministrationTest Successfully executed
+05/11/2019 14:20:04 devpinoyLogger Inside RoleManagementAdministrationTest
+05/11/2019 14:20:09 devpinoyLogger RoleManagementAdministrationTest Succefully executed
+05/11/2019 14:20:10 devpinoyLogger Inside CreateRole Test
+05/11/2019 14:20:17 devpinoyLogger Inside RoleAdvancedSearchTest
+05/11/2019 14:20:17 devpinoyLogger RoleAdvancedSearchTest Succefully executed
+05/11/2019 14:20:19 devpinoyLogger Inside RoleEditTest
+05/11/2019 14:20:21 devpinoyLogger RoleEditTest Succefully executed
+05/11/2019 14:20:24 devpinoyLogger Inside RoleDeleteTest
+05/11/2019 14:20:26 devpinoyLogger RoleDeleteTest Succefully executed
+05/11/2019 14:20:28 devpinoyLogger Inside UserManagementAdministration Test
+05/11/2019 14:20:30 devpinoyLogger Inside UserAdvancedSearchTest
+05/11/2019 14:20:31 devpinoyLogger userAdvancedSearchTest Succefully executed
+05/11/2019 14:20:32 devpinoyLogger Inside UserEditTest
+05/11/2019 14:20:34 devpinoyLogger UserEditTest Succefully executed
+05/11/2019 14:20:36 devpinoyLogger Inside ApplicationConfigurationAdministrationTest
+05/11/2019 14:20:38 devpinoyLogger ApplicationConfigurationAdministrationTest Succefully executed
+05/11/2019 14:20:38 devpinoyLogger Inside AppConfigAdvancedSearchTest
+05/11/2019 14:20:39 devpinoyLogger appConfigAdvancedSearchTest Succefully executed
+05/11/2019 14:20:40 devpinoyLogger Inside appConfigEditTest
+05/11/2019 14:20:42 devpinoyLogger appConfigEditTest Succefully executed
+05/11/2019 14:20:44 devpinoyLogger Inside MainMenuSkillsTest
+05/11/2019 14:20:47 devpinoyLogger Successfully executed MainMenuTest
+05/11/2019 14:20:47 devpinoyLogger Inside SepAdministration Test
+05/11/2019 14:20:48 devpinoyLogger SepAdministrationTest Successfully executed
+05/11/2019 14:20:48 devpinoyLogger Inside SepApplicationConfig Test
+05/11/2019 14:20:50 devpinoyLogger SepApplicationConfigTest Succefully executed
+05/11/2019 14:20:50 devpinoyLogger Inside SepAppConfigAdvancedSearchTest
+05/11/2019 14:20:50 devpinoyLogger SepAppConfigAdvancedSearchTest Succefully executed
+05/11/2019 14:20:52 devpinoyLogger Inside SepAppConfigEditTest
+05/11/2019 14:20:54 devpinoyLogger appConfigEditTest Successfully executed
+05/11/2019 14:20:56 devpinoyLogger Inside SepLangSubCategoryTest
+05/11/2019 14:20:57 devpinoyLogger Inside SepCreateLangSubCategory
+05/11/2019 14:21:18 devpinoyLogger Inside SepLangAdvancedSearchTest
+05/11/2019 14:21:18 devpinoyLogger SepLangAdvancedSearchTest Succefully executed
+05/11/2019 14:21:20 devpinoyLogger Inside SepLangEditTest
+05/11/2019 14:21:40 devpinoyLogger Inside SepLangDeleteTest
+05/11/2019 14:22:01 devpinoyLogger Inside SepEvaluationTest
+05/11/2019 14:22:01 devpinoyLogger SepEvaluationTest Successfully executed
+05/11/2019 14:22:01 devpinoyLogger Inside SepEvaluationRequestTest
+05/11/2019 14:22:03 devpinoyLogger SepEvaluationRequestTest Successfully executed
+05/11/2019 14:22:03 devpinoyLogger Inside SepCreateTestRequestTest
+05/11/2019 14:22:05 devpinoyLogger SepCreateTestRequestTest Successfully executed
+05/11/2019 14:22:05 devpinoyLogger 1920.0
+05/11/2019 14:22:05 devpinoyLogger 1920.0
+05/11/2019 14:22:09 devpinoyLogger Inside SepDefineEvaluationTest
+05/11/2019 14:22:30 devpinoyLogger Inside SepDefineSectionTest
+05/11/2019 14:22:50 devpinoyLogger Inside SepQuestionManagementTest
+05/11/2019 14:23:11 devpinoyLogger Inside SepSubmitQuestionTest
+05/11/2019 14:23:33 devpinoyLogger Inside SepQuestionApprovalTest
+05/11/2019 14:23:35 devpinoyLogger SepQuestionApprovalTest Successfully executed
+05/11/2019 14:23:35 devpinoyLogger Inside SepApproveQuestionTest
+05/11/2019 14:23:55 devpinoyLogger Inside SepReportsTest!!!!!!!!!!
+05/11/2019 14:23:55 devpinoyLogger SepReportsTest Successfully executed!!!!!!!!!!
+05/11/2019 14:23:55 devpinoyLogger Inside SepAuditDetailsTest!!!!!!!!!!
+05/11/2019 14:24:23 devpinoyLogger Inside SepEvaluationResultsTest!!!!!!!!!!
+05/11/2019 14:24:25 devpinoyLogger SepEvaluationResultsTest Successfully executed!!!!!!!!!!

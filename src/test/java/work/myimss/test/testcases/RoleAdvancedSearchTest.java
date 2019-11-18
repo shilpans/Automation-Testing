@@ -1,5 +1,7 @@
 package work.myimss.test.testcases;
 
+import java.util.Hashtable;
+
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.Reporter;
@@ -12,14 +14,14 @@ public class RoleAdvancedSearchTest extends TestBase{
 	
 
 	@Test(dataProviderClass=TestUtil.class,dataProvider="dp")
-	public void roleAdvancedSearchTest(String rolename) throws InterruptedException
+	public void roleAdvancedSearchTest(Hashtable<String,String> data) throws InterruptedException
 	{
 		log.debug("Inside RoleAdvancedSearchTest");
 		click("advancedSearch_XPATH");
 		Assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("roleName_XPATH","Failed to click on Advanced search Role Management"))));
 		log.debug("RoleAdvancedSearchTest Succefully executed");
 		
-		type("roleName_XPATH",rolename);
+		type("roleName_XPATH",data.get("rolename"));
 		click("apply_XPATH");
 		Reporter.log("RoleAdvancedSearchTest Successfully executed!!!!!!!!!!");
 	}
