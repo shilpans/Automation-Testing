@@ -21,7 +21,7 @@ public class AppConfigEditTest extends TestBase{
 		log.debug("appConfigEditTest Succefully executed");
 		
 		clear("configValue_XPATH");
-		type("configValue_XPATH",data.get("configValue"));
+		type("configValue_XPATH",String.valueOf((int)Double.parseDouble(data.get("configValue"))));
 		click("submit_XPATH");
 		getText("successAlert_XPATH");
 		Reporter.log("appConfigEditTest Successfully executed!!!!!!!!!!");

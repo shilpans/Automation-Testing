@@ -6,17 +6,292 @@
     <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
     <listener class-name="work.myimss.test.listeners.CustomListeners"/>
   </listeners>
-  <test name="Login Test(failed)">
+  <test name="Edit Role Test(failed)">
     <classes>
-      <class name="work.myimss.test.testcases.LoginTest">
+      <class name="work.myimss.test.testcases.RoleEditTest">
         <methods>
-          <include name="loginTest" invocation-numbers="0 1 2 3"/>
+          <include name="setUp"/>
+          <include name="roleEditTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.RoleEditTest -->
+    </classes>
+  </test> <!-- Edit Role Test(failed) -->
+  <test name="Role Delete Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.RoleDeleteTest">
+        <methods>
+          <include name="roleDeleteTest"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- work.myimss.test.testcases.LoginTest -->
+      </class> <!-- work.myimss.test.testcases.RoleDeleteTest -->
     </classes>
-  </test> <!-- Login Test(failed) -->
+  </test> <!-- Role Delete Test(failed) -->
+  <test name="User Edit Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.UserEditTest">
+        <methods>
+          <include name="userEditTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.UserEditTest -->
+    </classes>
+  </test> <!-- User Edit Test(failed) -->
+  <test name="Application Configuration Administration Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.ApplicationConfigurationAdministrationTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="applicationConfigurationAdministrationTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.ApplicationConfigurationAdministrationTest -->
+    </classes>
+  </test> <!-- Application Configuration Administration Test(failed) -->
+  <test name="App Config Advanced Search Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.AppConfigAdvancedSearchTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="appConfigAdvancedSearchTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.AppConfigAdvancedSearchTest -->
+    </classes>
+  </test> <!-- App Config Advanced Search Test(failed) -->
+  <test name="App Config Edit Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.AppConfigEditTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="appConfigEditTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.AppConfigEditTest -->
+    </classes>
+  </test> <!-- App Config Edit Test(failed) -->
+  <test name="Main Menu Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.MainMenuTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="mainMenuSkillsTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.MainMenuTest -->
+    </classes>
+  </test> <!-- Main Menu Test(failed) -->
+  <test name="Sep Administration Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepAdministrationTest">
+        <methods>
+          <include name="sepAdministrationTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepAdministrationTest -->
+    </classes>
+  </test> <!-- Sep Administration Test(failed) -->
+  <test name="Sep Application Config Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepApplicationConfigTest">
+        <methods>
+          <include name="sepApplicationConfigTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepApplicationConfigTest -->
+    </classes>
+  </test> <!-- Sep Application Config Test(failed) -->
+  <test name="Sep App Config Advanced Search Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepAppConfigAdvancedSearchTest">
+        <methods>
+          <include name="sepAppConfigAdvancedSearchTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepAppConfigAdvancedSearchTest -->
+    </classes>
+  </test> <!-- Sep App Config Advanced Search Test(failed) -->
+  <test name="Sep App Config Edit Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepAppConfigEditTest">
+        <methods>
+          <include name="sepAppConfigEditTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepAppConfigEditTest -->
+    </classes>
+  </test> <!-- Sep App Config Edit Test(failed) -->
+  <test name="Sep Lang Sub Category Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepLangSubCategoryTest">
+        <methods>
+          <include name="sepLangSubCategoryTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepLangSubCategoryTest -->
+    </classes>
+  </test> <!-- Sep Lang Sub Category Test(failed) -->
+  <test name="Sep Create Lang Sub Category Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepCreateLangSubCategoryTest">
+        <methods>
+          <include name="sepCreateLangSubCategoryTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepCreateLangSubCategoryTest -->
+    </classes>
+  </test> <!-- Sep Create Lang Sub Category Test(failed) -->
+  <test name="Sep Lang Advanced Search Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepLangAdvancedSearchTest">
+        <methods>
+          <include name="sepLangAdvancedSearchTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepLangAdvancedSearchTest -->
+    </classes>
+  </test> <!-- Sep Lang Advanced Search Test(failed) -->
+  <test name="Sep Lang Edit Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepLangEditTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="sepLangEditTest" invocation-numbers="0"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepLangEditTest -->
+    </classes>
+  </test> <!-- Sep Lang Edit Test(failed) -->
+  <test name="Sep Lang Delete Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepLangDeleteTest">
+        <methods>
+          <include name="sepLangDeleteTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepLangDeleteTest -->
+    </classes>
+  </test> <!-- Sep Lang Delete Test(failed) -->
+  <test name="Sep Evaluation Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepEvaluationTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="sepEvaluationTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepEvaluationTest -->
+    </classes>
+  </test> <!-- Sep Evaluation Test(failed) -->
+  <test name="Sep Evaluation Request Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepEvaluationRequestTest">
+        <methods>
+          <include name="sepEvaluationRequestTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepEvaluationRequestTest -->
+    </classes>
+  </test> <!-- Sep Evaluation Request Test(failed) -->
+  <test name="Sep Create Test Request Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepCreateTestRequestTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="sepCreateTestRequestTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepCreateTestRequestTest -->
+    </classes>
+  </test> <!-- Sep Create Test Request Test(failed) -->
+  <test name="Sep Assign Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepAssignTest">
+        <methods>
+          <include name="sepAssignTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepAssignTest -->
+    </classes>
+  </test> <!-- Sep Assign Test(failed) -->
+  <test name="Sep View Assigned Candidates Results Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepViewAssignedCandidatesResultsTest">
+        <methods>
+          <include name="sepViewAssignedCandidatesResultsTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepViewAssignedCandidatesResultsTest -->
+    </classes>
+  </test> <!-- Sep View Assigned Candidates Results Test(failed) -->
+  <test name="Sep Define Evaluation Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepDefineEvaluationTest">
+        <methods>
+          <include name="sepDefineEvaluationTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepDefineEvaluationTest -->
+    </classes>
+  </test> <!-- Sep Define Evaluation Test(failed) -->
+  <test name="Sep Define Section Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepDefineSectionTest">
+        <methods>
+          <include name="sepDefineSectionTest" invocation-numbers="0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepDefineSectionTest -->
+    </classes>
+  </test> <!-- Sep Define Section Test(failed) -->
+  <test name="Sep Question Management Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepQuestionManagementTest">
+        <methods>
+          <include name="sepQuestionManagementTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepQuestionManagementTest -->
+    </classes>
+  </test> <!-- Sep Question Management Test(failed) -->
+  <test name="Sep Submit Question Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepSubmitQuestionTest">
+        <methods>
+          <include name="sepSubmitQuestionTest" invocation-numbers="0 1 2"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepSubmitQuestionTest -->
+    </classes>
+  </test> <!-- Sep Submit Question Test(failed) -->
+  <test name="Sep Question Approval Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepQuestionApprovalTest">
+        <methods>
+          <include name="sepQuestionApprovalTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepQuestionApprovalTest -->
+    </classes>
+  </test> <!-- Sep Question Approval Test(failed) -->
   <test name="Sep Approve Question Test(failed)">
     <classes>
       <class name="work.myimss.test.testcases.SepApproveQuestionTest">
@@ -28,6 +303,28 @@
       </class> <!-- work.myimss.test.testcases.SepApproveQuestionTest -->
     </classes>
   </test> <!-- Sep Approve Question Test(failed) -->
+  <test name="Sep Reports Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepReportsTest">
+        <methods>
+          <include name="sepReportsTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepReportsTest -->
+    </classes>
+  </test> <!-- Sep Reports Test(failed) -->
+  <test name="Sep Audit Details Test(failed)">
+    <classes>
+      <class name="work.myimss.test.testcases.SepAuditDetailsTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="sepAuditDetailsTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- work.myimss.test.testcases.SepAuditDetailsTest -->
+    </classes>
+  </test> <!-- Sep Audit Details Test(failed) -->
   <test name="Sep Evaluation Results Test(failed)">
     <classes>
       <class name="work.myimss.test.testcases.SepEvaluationResultsTest">

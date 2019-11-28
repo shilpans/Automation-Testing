@@ -19,8 +19,8 @@ public class SepApproveQuestionTest extends TestBase{
 		log.debug("Inside SepApproveQuestionTest");
 		click("sepApproveQuestion_XPATH");
 //		Assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("advancedSearch_XPATH","Failed to click on SepApproveQuestionTest"))));
-		click("reset_XPATH");
-		type("sepResetComments_XPATH",data.get("comments"));
+//		click("reset_XPATH");
+//		type("sepResetComments_XPATH",data.get("comments"));
 		click("submit_XPATH");
 		getText("successAlert_XPATH");
 		log.debug("SepApproveQuestionTest Successfully executed");

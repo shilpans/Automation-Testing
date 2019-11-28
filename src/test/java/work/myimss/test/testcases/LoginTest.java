@@ -23,19 +23,19 @@ public class LoginTest extends TestBase{
 		{
 			log.debug("Inside Login Test!!!!!!!!!!");
 
-			clear("userName_XPATH");
+//			clear("userName_XPATH");
 			type("userName_XPATH",data.get("username"));
-			clear("password_XPATH");
+//			clear("password_XPATH");
 			type("password_XPATH",data.get("password"));
 			click("signIn_XPATH");
 			Thread.sleep(1000);
 			
-			WebElement xx=driver.findElement(By.xpath("//button[@id='modalok']"));
+//			WebElement xx=driver.findElement(By.xpath("//button[@id='modalok']"));
 			
-			if(xx.isDisplayed())
-			{
-				click("AlertOK_XPATH");
-			}
+//			if(xx.isDisplayed())
+//			{
+//				click("AlertOK_XPATH");
+//			}
 			
 			Assert.assertTrue(isElementPresent(By.xpath(OR.getProperty("apps_XPATH","Login not Successfull"))));
 			log.debug("Login Successfully executed!!!!!!!!!!");
